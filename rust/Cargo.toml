@@ -1,0 +1,12 @@
+[package]
+name = "logparser"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+nom = "7.1"
+regex = "1.10"
+chrono = "0.4"
