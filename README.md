@@ -9,6 +9,10 @@
 
 **A powerful terminal-based system monitoring and management tool for Linux**
 
+<img src="tui.png" width="400"/>
+<img src="tui2.png" width="400"/>
+
+
 </div>
 
 ## Overview
